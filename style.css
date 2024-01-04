@@ -110,7 +110,8 @@
    width: 50px;
    font-weight: 900;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   background-color: darksalmon;
+   background-image: url(https://www.enjpg.com/img/2020/rainbow-aesthetic-6-scaled.jpg);
+   background-size: cover;
    border-radius: 20px;
    border: 1px solid;
 
